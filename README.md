@@ -36,7 +36,7 @@ This project models a 4-way intersection with configurable green, yellow, and re
 ---
 
 ## 🧠 State Diagram & Timing
-![State-Diagram](https://github.com/ShrirangRekhate/TrafficLight-Controller-using-Verilog/blob/main/Images/Schematic.png?raw=true)
+![State-Diagram](https://github.com/ShrirangRekhate/TrafficLight-Controller-using-Verilog/blob/main/Images/State%20Transition%20diagram.png?raw=true)
 
 
 #### State machine
